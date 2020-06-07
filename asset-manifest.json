@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/demo-social-web/static/css/main.b98d5203.chunk.css",
+    "main.js": "/demo-social-web/static/js/main.44abf08a.chunk.js",
+    "main.js.map": "/demo-social-web/static/js/main.44abf08a.chunk.js.map",
+    "runtime-main.js": "/demo-social-web/static/js/runtime-main.23851755.js",
+    "runtime-main.js.map": "/demo-social-web/static/js/runtime-main.23851755.js.map",
+    "static/css/2.b211811c.chunk.css": "/demo-social-web/static/css/2.b211811c.chunk.css",
+    "static/js/2.05a4bf80.chunk.js": "/demo-social-web/static/js/2.05a4bf80.chunk.js",
+    "static/js/2.05a4bf80.chunk.js.map": "/demo-social-web/static/js/2.05a4bf80.chunk.js.map",
+    "static/css/3.c67c7608.chunk.css": "/demo-social-web/static/css/3.c67c7608.chunk.css",
+    "static/js/3.dc1814fb.chunk.js": "/demo-social-web/static/js/3.dc1814fb.chunk.js",
+    "static/js/3.dc1814fb.chunk.js.map": "/demo-social-web/static/js/3.dc1814fb.chunk.js.map",
+    "static/css/4.1454a999.chunk.css": "/demo-social-web/static/css/4.1454a999.chunk.css",
+    "static/js/4.7256b5a9.chunk.js": "/demo-social-web/static/js/4.7256b5a9.chunk.js",
+    "static/js/4.7256b5a9.chunk.js.map": "/demo-social-web/static/js/4.7256b5a9.chunk.js.map",
+    "index.html": "/demo-social-web/index.html",
+    "precache-manifest.ded87b0821732a468a405057c06de019.js": "/demo-social-web/precache-manifest.ded87b0821732a468a405057c06de019.js",
+    "service-worker.js": "/demo-social-web/service-worker.js",
+    "static/css/2.b211811c.chunk.css.map": "/demo-social-web/static/css/2.b211811c.chunk.css.map",
+    "static/css/3.c67c7608.chunk.css.map": "/demo-social-web/static/css/3.c67c7608.chunk.css.map",
+    "static/css/4.1454a999.chunk.css.map": "/demo-social-web/static/css/4.1454a999.chunk.css.map",
+    "static/css/main.b98d5203.chunk.css.map": "/demo-social-web/static/css/main.b98d5203.chunk.css.map",
+    "static/js/2.05a4bf80.chunk.js.LICENSE.txt": "/demo-social-web/static/js/2.05a4bf80.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/demo-social-web/static/media/logo.5d5d9eef.svg",
+    "static/media/preloader.gif": "/demo-social-web/static/media/preloader.26ef8bb4.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23851755.js",
+    "static/css/2.b211811c.chunk.css",
+    "static/js/2.05a4bf80.chunk.js",
+    "static/css/main.b98d5203.chunk.css",
+    "static/js/main.44abf08a.chunk.js"
+  ]
+}

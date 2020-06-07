@@ -1,0 +1,1 @@
+{"version":3,"sources":["ProfileInfo.module.sass","Post.module.sass"],"names":[],"mappings":"AAAA,6CACE,WAAY,CACZ,YAAa,CACb,kBAAmB,CCHrB,uBACE,UAAW,CACX,WAAY","file":"3.c67c7608.chunk.css","sourcesContent":[".descriptionBlock__avatar {\n  width: 150px;\n  height: 150px;\n  border-radius: 50px; }\n",".item__img {\n  width: 50px;\n  height: 50px; }\n"]}
